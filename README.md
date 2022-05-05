@@ -1,8 +1,6 @@
 # Vue-router
 
 <div align="left">
-
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/)
  
 ## Вы получите
 <details >
@@ -30,7 +28,10 @@
     В  проекте  автоматически будет создан файл scss
     Можно сразу пользоваться!
 </details>
-
+ 
+ ![Lax 2.0 Gif](https://github.com/VladislavBobyrev/test-vue-router/blob/main/preview.gif)
+ 
+ 
  ## Для запуска потребуется
 
 - Этот репозиторий 
@@ -53,7 +54,7 @@ https://nodejs.org/en/
 | Запустить локально     | `npm run serve`       |
 | Собрать                | `npm run build`       |
  
- 
+
 ## Связвться со мной
 <div align='center'> 
  
